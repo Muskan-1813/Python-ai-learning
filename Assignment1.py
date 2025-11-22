@@ -56,3 +56,4 @@ integer_part = int(num)  # integer part
 decimal_part = str(num).split(".")[1]  # fractional digits
 print("Integer part:", integer_part)
 print("Decimal part:", decimal_part)
+
